@@ -1,0 +1,18 @@
+.table {
+  text-align: center;
+}
+
+body {
+  background-color: gray;
+  align-items: center;
+}
+
+table {
+  background-color: beige;
+  text-align: center;
+}
+
+h1 {
+  font-size: 45px;
+  color: black;
+}
