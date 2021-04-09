@@ -25,3 +25,8 @@ h2 {
 .box {
   align-items: center;
 }
+
+thead,
+tbody {
+  text-align: center;
+}
